@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# farherslove
 
-## Getting Started
+本プロジェクトは、Human Centered Designの授業用に作成されたプロトタイプです。実際に運用や本番環境での稼働を行うものではありません。
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## サービスコンセプト
+**見返りを求めすぎない父親から、一人暮らしの息子へ。**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+言葉にするのは少し気恥ずかしい「不器用な愛情」と「自分の趣味（お酒）」を、半年に3回のお酒の定期便として静かに送るサービスです。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 体験の完成
+最後に息子が選んだお酒が実家に届き、帰省時に初めて「親子のグラス」が揃って一緒に飲むことで、この体験が完成します。
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## デザインコンセプト：「洗練された実家感 × しずかなインターネット」
+親子の過剰な繋がり（チャット、既読通知、「ありがとう」の強要）をシステムから完全に削ぎ落とし、「ただ送る、ただ受け取る」ことに特化した引き算の設計です。
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*   **色彩**: 「生成り色（少し黄みがかった白）」や落ち着いたグレーを背景にし、文字には「墨黒」や「深い藍色」を使用。実家の温かみとモダンなスタイリッシュさを両立させます。
+*   **余白とフォント**: ボタンや説明文を極限まで減らしてたっぷりと余白を取り、明朝体や美しいゴシック体を使用。お酒の美しいボトルと「父親の手書きメッセージ」だけが際立つ静謐なUIとなっています。
